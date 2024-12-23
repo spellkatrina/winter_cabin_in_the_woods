@@ -1,0 +1,11 @@
+Model Information:
+* title:	Winter cabin in the woods
+* source:	https://sketchfab.com/3d-models/winter-cabin-in-the-woods-0361f61c925b4d4bbe0cc3099059ec7d
+* author:	trivial.cat (https://sketchfab.com/trivial.cat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Winter cabin in the woods" (https://sketchfab.com/3d-models/winter-cabin-in-the-woods-0361f61c925b4d4bbe0cc3099059ec7d) by trivial.cat (https://sketchfab.com/trivial.cat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
